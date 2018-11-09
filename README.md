@@ -1,18 +1,8 @@
-# Spectacle Boilerplate
-
-## Contents
-
-- [Reference](#reference)
-- [Getting Started](#getting-started)
-- [Build & Deployment](#build-deployment)
-
-## Reference
-
-The Spectacle core API is available at [https://github.com/FormidableLabs/spectacle/blob/master/README.md](https://github.com/FormidableLabs/spectacle/blob/master/README.md).
+#  Slides given at Inspirethon Organized by Agora Code Community
 
 ## Getting Started
 
-After downloading the boilerplate, your first order of business is to open a terminal and run 
+After downloading the repo, your first order of business is to open a terminal and run 
 ```bash
 yarn
 ```
