@@ -124,6 +124,12 @@ export default class Presentation extends React.Component {
           </BlockQuote>
         </Slide>
 
+        <Slide>
+        <Text margin="10px 0 0" textColor="tertiary" size={6} fit bold>
+            Next Dream Job 🤔  Really ? <br />
+            How ?
+          </Text>
+        </Slide>
 
         <Slide>
           <Text margin="10px 0 0" textColor="tertiary" size={6} fit bold>
